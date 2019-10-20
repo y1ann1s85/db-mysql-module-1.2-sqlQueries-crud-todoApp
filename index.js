@@ -13,7 +13,7 @@ app.use(bodyParser());
 const connection = mysql.createConnection({
     host: "localhost",
     user: "root",
-    password: "y1ann1s851385al",
+    password: "YOURPASS",
     database: "todo_app"
 })
 
